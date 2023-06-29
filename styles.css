@@ -7,20 +7,47 @@ body {
 
 h1 {
     text-align: center;
+    background-color: #49097a;
+    color:aliceblue;
+    margin:100px;
+    padding: 20px;
+    display: block;
  }
 
 img {
     height:auto;
     max-width: 100%;
+    position: reltative;
     }
 
+.line{
+    border:3px solid #49097a;
+    margin: 100px;
+}
+
 .card {
+        display:inline-block;
         width: 200px;
-        border: 1px solid #49097a;
+        border: 3px dotted #49097a;
         border-radius: 5px;
-        margin: auto;
-        padding: 5px;
+        margin:10px 220px;
+        padding: 45px;
         text-align: center;
+        background-color: aliceblue;
+        position: relative;
+      }
+
+.link { 
+    width: 200px;
+    border: 3px dotted #49097a;
+    border-radius: 5px;
+    margin:10px 220px;
+    padding: 45px;
+    text-align: center;
+    background-color: aliceblue;}
+    
+a:hover {
+        color:lightcoral;
       }
     
     
