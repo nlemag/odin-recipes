@@ -1,0 +1,30 @@
+
+
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+ }
+
+img {
+    height:auto;
+    max-width: 100%;
+    }
+
+.card {
+        width: 200px;
+        border: 1px solid #49097a;
+        border-radius: 5px;
+        margin: auto;
+        padding: 5px;
+        text-align: center;
+      }
+    
+    
+
+
+
+
